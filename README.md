@@ -5,11 +5,11 @@ Steps to run this simulation:
 
   1. in a terminal with Python 3 installed, execute:  
             python3 flipping_trader.py
-  2. follow the prompts an input some numbers
-  3. observe the output
+  2. follow the prompts by inputting some numbers;
+  3. observe the output.
 
 
-Here are some sample outputs of the simulation:
+For sake of time on your behalf, here are some sample outputs of the simulation:
 
 <img width="904" alt="10_traders" src="https://user-images.githubusercontent.com/35650788/155052213-67fd976d-a63d-40fe-a14e-9b12aa71ec15.png">
 
