@@ -23,4 +23,4 @@ using integers from 1 through to 12 where each integer maps to a month like:
 			1 -> January, 2 -> Feburary, ..., 12 -> December
 
 
-More information about python-binance can be found here: https://python-binance.readthedocs.io/en/latest/
+The data contained in the BTC_2020_data folder was collected using the python-binance Python module. More information about python-binance can be found here: https://python-binance.readthedocs.io/en/latest/
