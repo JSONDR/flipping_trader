@@ -1,5 +1,5 @@
 # flipping_trader
-Description: a simulation about N cryptocurrency traders who trade Bitcoin each day throughout 2020. Each base their decision process on the outcome of flipping a coin each day. Heads corresponds to BUY (Long) and tails corresponds to SELL (Short). Do some of the traders outperform a 'holding strategy' (where a trader buys on the first day of each month and sells on the last day of each month)? 
+Description: a simulation about N cryptocurrency traders who trade Bitcoin each day throughout 2020. Each trader bases their decision process on the outcome of flipping a coin each day. Heads corresponds to buy (Long) and tails corresponds to sell (Short). Question: do some of the traders outperform a 'holding strategy' (where a trader buys on the first day of each month and sells on the last day of each month)? 
 
 Steps to run this simulation:
 
