@@ -9,7 +9,7 @@ Steps to run this simulation:
   3. observe the output.
 
 
-For sake of time, here are some sample outputs of the simulation for N = 10, 100 and 1000:
+To save some time, here are some sample outputs of the simulation for N = 10, 100 and 1000:
 
 <img width="904" alt="10_traders" src="https://user-images.githubusercontent.com/35650788/155052213-67fd976d-a63d-40fe-a14e-9b12aa71ec15.png">
 
